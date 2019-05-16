@@ -1,1 +1,3 @@
 test contents
+I am adding contents in VIM
+The two moons may be proglems for Wolfman
